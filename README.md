@@ -18,4 +18,4 @@ AI로 번역하여 오역 및 틀린 번역이 많을 수 있습니다<br>
 * Defiance bar -> 브레이크바<br>
 * CC -> 군중 제어<br>
 * Crowd Control -> 군중 제어<br>
-* cleanse, strip -> 원문에 컨디에는 cleanse, 분에는 strip을 사용하는 것 같으며, cleanse는 "제거", strip은 "해제"로 할까 하다가 "제거"로 통일함<br>
+* cleanse, strip -> 원문에 Condition에는 cleanse, Boon에는 strip을 사용하는 것 같으며, cleanse는 "제거", strip은 "해제"로 할까 하다가 "제거"로 통일함<br>
