@@ -7,18 +7,21 @@ AI로 번역하여 오역 및 틀린 번역이 많을 수 있습니다<br>
 ## 사용법
 
 (길드워2 경로)\addons\arcdps 경로에 아래 3개의 파일을 넣으면 됩니다.<br>
-* arcdps_lang.ini<br>
-* arcdps_table_lang.ini<br>
-* arcdps_font.ttf<br>
+- arcdps_lang.ini<br>
+- arcdps_table_lang.ini<br>
+- arcdps_font.ttf<br>
 
 ## 번역 참고
 
-* 분 -> 이로운 효과 (???/상태 이상, 버프/디버프, 분/컨디션 고민중...)<br>
-* 컨디션 -> 해로운 효과<br>
-* Dodge -> 닷지<br>
-* Defiance bar -> 브레이크바<br>
-* CC -> 군중 제어<br>
-* Crowd Control -> 군중 제어<br>
-* cleanse, strip -> 원문에 Condition에는 cleanse, Boon에는 strip을 사용하는 것 같으며, cleanse는 "제거", strip은 "해제"로 할까 하다가 "제거"로 통일함<br>
+- 분 -> 이로운 효과 (???/상태 이상, 버프/디버프, 분/컨디션 고민중...)<br>
+- 컨디션 -> 해로운 효과<br>
+- Dodge -> 닷지<br>
+- Defiance bar -> 브레이크바<br>
+- CC -> 군중 제어<br>
+- Crowd Control -> 군중 제어<br>
+- cleanse, strip -> 원문에 Condition에는 cleanse, Boon에는 strip을 사용하는 것 같으며, cleanse는 "제거", strip은 "해제"로 할까 하다가 "제거"로 통일함<br>
 
 ## History
+
+- 2026-10-23
+  - '해로운 효과' 길드워2 한글 패치와 일관성 유지를 위해 '상태 이상'으로 변경
