@@ -1,4 +1,4 @@
-# Guild-Wars2-ArcDPS-Korean-translation
+# Guild-Wars-2-ArcDPS-Korean-translation
 
 길드워2 ArcDPS 한글 번역.<br>
 AI로 번역하여 오역 및 틀린 번역이 많을 수 있습니다.<br>
